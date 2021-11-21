@@ -1,0 +1,52 @@
+div.top_nav {
+  background-color: firebrick;
+}
+
+div.top_nav span {
+  color: white;
+  font-size: 30px
+}
+
+div.top_nav a {
+  padding-top: 5px;
+  color: white
+}
+
+div.bottom_nav {
+  background-color: 484848;
+  text-align: right;
+  font-size: 30px
+}
+
+div.bottom_nav span {
+  color: white;
+  font-size: 20px
+}
+
+div.bottom_nav a {
+  color: white;
+}
+
+aside {
+  float: right;
+  font-size: 18px;
+  max-width: 400px;
+}
+
+aside img.other_attractions {
+  width: 225PX
+}
+
+div.main_content img {
+  width: 75%;
+  margin: 20px;
+  border-style: inset;
+}
+div.main_content p {
+  font-size: 25px;
+  width: 75%;
+}
+
+footer {
+  background-color: 484848;
+}
